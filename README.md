@@ -1,16 +1,45 @@
-# meplanner
+# mePlanner
 
-A new Flutter project.
+<br>
+Görevlerinizi net ve kolay bir şekilde organize edin.
+Hedefleriniz yerine getirin ve yaptığınız görevleri takip edin.
+Unutmamak için Herhangi bir göreve hatırlatıcı ekleyin.
+<br>
+Hemen Başla!
 
-## Getting Started
+## Play Store
 
-This project is a starting point for a Flutter application.
+Hemen Kullanmak için: [tıklayınız](xx)
+<br>
+Gizlilik Politikası için [tıklayınız](https://www.harunayyildiz.com/gizlilik-bildirimi/)
 
-A few resources to get you started if this is your first Flutter project:
+Dark Mode | Light Mode
+------------ | -------------
+<img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/HomePage_Dark.png" alt="Dark Mode" width="200" height="422"> | <img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/HomePage_Light.png" alt="Light Mode" width="200" height="422">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Geçmiş Ödül | Geçmiş Ödül Seçimi
+------------ | -------------
+<img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/NoItem_Dark.png" alt="Dark Mode" width="200" height="422"> | <img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/HomePage_Light.png" alt="Light Mode" width="200" height="422">
+
+
+Geçmiş Ödül | Geçmiş Ödül Seçimi
+------------ | -------------
+<img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/HomePage_Dark.png" alt="Dark Mode" width="200" height="422"> | <img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/HomePage_Light.png" alt="Light Mode" width="200" height="422">
+
+
+Geçmiş Ödül | Geçmiş Ödül Seçimi
+------------ | -------------
+<img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/HomePage_Dark.png" alt="Dark Mode" width="200" height="422"> | <img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/HomePage_Light.png" alt="Light Mode" width="200" height="422">
+
+Geçmiş Ödül | Geçmiş Ödül Seçimi
+------------ | -------------
+<img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/Gec%CC%A7mis%CC%A7O%CC%88du%CC%88l.png" alt="Geçmiş Ödül" width="200" height="422"> | <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/Gec%CC%A7mis%CC%A7O%CC%88du%CC%88lSec%CC%A7im.png" alt="Geçmiş Ödül" width="200" height="422">
+
+
+Gelecekteki Ödül | Gelecekteki Ödül Seçimi
+------------ | -------------
+<img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/GelecekO%CC%88du%CC%88l.png" alt="Gelecek Ödül" width="200" height="422"> | <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/GelecekO%CC%88du%CC%88lSec%CC%A7.png" alt="Gelecek Ödül Seç" width="200" height="422">
+
+

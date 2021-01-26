@@ -15,27 +15,27 @@ Gizlilik Politikası için [tıklayınız](https://www.harunayyildiz.com/gizlili
 
 Dark Mode | Light Mode
 ------------ | -------------
-<img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/HomePage_Dark.png" alt="Dark Mode" width="200" height="356"> | <img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/HomePage_Light.png" alt="Light Mode" width="200" height="356">
+<img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/HomePage_Dark.png" alt="Dark Mode" width="220" height="391"> | <img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/HomePage_Light.png" alt="Light Mode" width="220" height="391">
 
 
 
 Tamamlanmış Görevler | Tamamlanmamış Görevler
 ------------ | -------------
-<img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/NoItem_Dark.png" alt="Dark Mode" width="200" height="356"> | <img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/NoItem_Light.png" alt="Light Mode" width="200" height="356">
+<img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/NoItem_Dark.png" alt="Dark Mode" width="220" height="391"> | <img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/NoItem_Light.png" alt="Light Mode" width="220" height="391">
 
 
 Yeni Görev | Yeni Görev
 ------------ | -------------
-<img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/NewTodo_Dark.png" alt="Yeni Görev" width="200" height="356"> | <img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/NewTodo_Light.png" alt="Light Mode" width="200" height="356">
+<img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/NewTodo_Dark.png" alt="Yeni Görev" width="220" height="391"> | <img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/NewTodo_Light.png" alt="Light Mode" width="220" height="391">
 
 
 Görevi Güncelle | Görevi Güncelle
 ------------ | -------------
-<img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/UpdateTodo_Dark.png" alt="Dark Mode" width="200" height="356"> | <img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/UpdateTodo_Light.png" alt="Light Mode" width="200" height="356">
+<img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/UpdateTodo_Dark.png" alt="Dark Mode" width="220" height="391"> | <img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/UpdateTodo_Light.png" alt="Light Mode" width="220" height="391">
 
 Notification(Android) | Notification(IOS)
 ------------ | -------------
-<img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/Notification_Android.jpg" alt="Geçmiş Ödül" width="200" height="356"> | <img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/Notification_Ios.png" alt="Geçmiş Ödül" width="200" height="356">
+<img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/Notification_Android.jpg" alt="Geçmiş Ödül" width="220" height="391"> | <img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/Notification_Ios.png" alt="Geçmiş Ödül" width="220" height="391">
 
 
 

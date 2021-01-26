@@ -19,27 +19,23 @@ Dark Mode | Light Mode
 
 
 
-Geçmiş Ödül | Geçmiş Ödül Seçimi
+Tamamlanmış Görevler | Tamamlanmamış Görevler
 ------------ | -------------
-<img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/NoItem_Dark.png" alt="Dark Mode" width="200" height="422"> | <img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/HomePage_Light.png" alt="Light Mode" width="200" height="422">
+<img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/NoItem_Dark.png" alt="Dark Mode" width="200" height="422"> | <img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/NoItem_Light.png" alt="Light Mode" width="200" height="422">
 
 
-Geçmiş Ödül | Geçmiş Ödül Seçimi
+Yeni Görev | Yeni Görev
 ------------ | -------------
-<img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/HomePage_Dark.png" alt="Dark Mode" width="200" height="422"> | <img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/HomePage_Light.png" alt="Light Mode" width="200" height="422">
+<img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/NewTodo_Dark.png" alt="Yeni Görev" width="200" height="422"> | <img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/NewTodo_Light.png" alt="Light Mode" width="200" height="422">
 
 
-Geçmiş Ödül | Geçmiş Ödül Seçimi
+Görevi Güncelle | Görevi Güncelle
 ------------ | -------------
-<img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/HomePage_Dark.png" alt="Dark Mode" width="200" height="422"> | <img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/HomePage_Light.png" alt="Light Mode" width="200" height="422">
+<img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/UpdateTodo_Dark.png" alt="Dark Mode" width="200" height="422"> | <img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/UpdateTodo_Light.png" alt="Light Mode" width="200" height="422">
 
-Geçmiş Ödül | Geçmiş Ödül Seçimi
+Notification(Android) | Notification(IOS)
 ------------ | -------------
-<img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/Gec%CC%A7mis%CC%A7O%CC%88du%CC%88l.png" alt="Geçmiş Ödül" width="200" height="422"> | <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/Gec%CC%A7mis%CC%A7O%CC%88du%CC%88lSec%CC%A7im.png" alt="Geçmiş Ödül" width="200" height="422">
+<img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/Notification_Android.jpg" alt="Geçmiş Ödül" width="200" height="422"> | <img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/Notification_Ios.png" alt="Geçmiş Ödül" width="200" height="422">
 
-
-Gelecekteki Ödül | Gelecekteki Ödül Seçimi
------------- | -------------
-<img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/GelecekO%CC%88du%CC%88l.png" alt="Gelecek Ödül" width="200" height="422"> | <img src="https://github.com/harunayyildiz/GolGolMobilAppDesign/blob/main/GelecekO%CC%88du%CC%88lSec%CC%A7.png" alt="Gelecek Ödül Seç" width="200" height="422">
 
 

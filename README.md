@@ -2,10 +2,12 @@
 
 <br>
 Görevlerinizi net ve kolay bir şekilde organize edin.
+<br>
 Hedefleriniz yerine getirin ve yaptığınız görevleri takip edin.
+<br>
 Unutmamak için Herhangi bir göreve hatırlatıcı ekleyin.
 <br>
-Hemen Başla!
+Hemen Başlayın!
 
 ## Play Store
 

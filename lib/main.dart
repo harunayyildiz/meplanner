@@ -12,7 +12,7 @@ import 'pages/home_page.dart';
 //şeklinde bir kullanımımız olucaktı.
 //Flutter_hive paketindeki initFlutter'da pathProviderden extend edilmiş.
 //ValueListenableBuilder widget'ındaki listenable(), flutter_hiveden gelmektedir
-//Bu paket sayesinde içindeki veri dinlenip değiştiriliyor.///
+//Bu paket sayesinde içindeki veri dinlenip değiştiriliyor./////
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Hive.initFlutter();

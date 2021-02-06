@@ -11,7 +11,7 @@
 
 # Play Store
 
-Hemen Kullanmak için: [tıklayınız](xx)
+:point_right: Hemen Kullanmak için: [tıklayınız](xx)
 <br>
 :key: Gizlilik Politikası için [tıklayınız](https://www.harunayyildiz.com/gizlilik-bildirimi/)
 

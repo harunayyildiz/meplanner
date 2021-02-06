@@ -91,21 +91,35 @@ Android Notification settings:
  ```
                    
 # 3- androidManifest.xml
- ```
+```
     <!-- Notification and INTERNET Permission -->
          <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
          <uses-permission android:name="android.permission.VIBRATE" />
          <uses-permission android:name="android.permission.INTERNET" />
          <uses-permission android:name="android.permission.WAKE_LOCK" />
-  ```
+```
   
-   ```
+```
      <activity
     android:showWhenLocked="true"
     android:turnScreenOn="true">
     <!-- flutter_local_notification için Eklendi --> 🔔
     <!-- (Cihaz Kitli halde Bildirimin Gelmesi ve Ekranın Açılması için) 🔔 -->
-    ```
+    
+ ```
+         <meta-data
+            android:name="flutterEmbedding"
+            android:value="2" />
+            <!--Notification Start 🔔-->
+    <receiver android:name="com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"></action>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver" /> 
+            <!--Notification End 🔔-->   
+ ```
+    
   
     
     

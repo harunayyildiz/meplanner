@@ -9,7 +9,7 @@ Unutmamak için Herhangi bir göreve hatırlatıcı ekleyin.
 <br>
 Hemen Başlayın!
 
-## Play Store
+# Play Store
 
 Hemen Kullanmak için: [tıklayınız](xx)
 <br>

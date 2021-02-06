@@ -1,4 +1,4 @@
-# mePlanner
+# mePlanner :part_alternation_mark:
 
 <br>
 :date: Görevlerinizi net ve kolay bir şekilde organize edin.

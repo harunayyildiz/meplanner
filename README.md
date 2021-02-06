@@ -1,13 +1,13 @@
 # mePlanner
 
 <br>
-- Görevlerinizi net ve kolay bir şekilde organize edin.
+:date: Görevlerinizi net ve kolay bir şekilde organize edin.
 <br>
  :hourglass_flowing_sand: Hedefleriniz yerine getirin ve yaptığınız görevleri takip edin. 
 <br>
-- Unutmamak için Herhangi bir göreve hatırlatıcı ekleyin.
+:mega: Unutmamak için Herhangi bir göreve hatırlatıcı ekleyin.
 <br>
-- Hemen Başlayın!
+:zap: Hemen Başlayın!
 
 # Play Store
 

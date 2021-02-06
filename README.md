@@ -108,6 +108,8 @@ Notification(Android) | Notification(IOS)
     <!-- (Cihaz Kitli halde Bildirimin Gelmesi ve Ekranın Açılması için) 🔔 -->
     
  ```
+ 
+  ```
          <meta-data
             android:name="flutterEmbedding"
             android:value="2" />

@@ -15,6 +15,10 @@ Hemen Kullanmak için: [tıklayınız](xx)
 <br>
 Gizlilik Politikası için [tıklayınız](https://www.harunayyildiz.com/gizlilik-bildirimi/)
 
+## Özellikler
+# Israrlı Bildirimler
+# Özel Bildirim Sesi
+
 Dark Mode | Light Mode
 ------------ | -------------
 <img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/HomePage_Dark.png" alt="Dark Mode" width="220" height="391"> | <img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/HomePage_Light.png" alt="Light Mode" width="220" height="391">
@@ -118,7 +122,8 @@ Android Notification settings:
         </receiver>
         <receiver android:name="com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver" /> 
             <!--Notification End 🔔-->   
- ```
+
+```
     
   
     

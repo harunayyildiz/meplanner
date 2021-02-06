@@ -44,7 +44,7 @@ Notification IOS sessing:
 meplanner/ios/Runner/AppDelegate.swift
 
 Android Notification settings:
-# 1- app/buildgradge
+# 1- app/build.gradge
 ```
 
     buildTypes {
@@ -90,3 +90,22 @@ Android Notification settings:
 
  ```
                    
+# 3- androidManifest.xml
+ ```
+    <!-- Notification and INTERNET Permission -->
+         <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+         <uses-permission android:name="android.permission.VIBRATE" />
+         <uses-permission android:name="android.permission.INTERNET" />
+         <uses-permission android:name="android.permission.WAKE_LOCK" />
+  ```
+  
+   ```
+     <activity
+    android:showWhenLocked="true"
+    android:turnScreenOn="true">
+    <!-- flutter_local_notification için Eklendi --> 🔔
+    <!-- (Cihaz Kitli halde Bildirimin Gelmesi ve Ekranın Açılması için) 🔔 -->
+    ```
+  
+    
+    

@@ -13,7 +13,7 @@
 
 Hemen Kullanmak için: [tıklayınız](xx)
 <br>
-Gizlilik Politikası için [tıklayınız](https://www.harunayyildiz.com/gizlilik-bildirimi/)
+:key: Gizlilik Politikası için [tıklayınız](https://www.harunayyildiz.com/gizlilik-bildirimi/)
 
 # Özellikler
 - Israrlı Bildirimler

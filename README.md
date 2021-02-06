@@ -40,4 +40,5 @@ Notification(Android) | Notification(IOS)
 <img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/Notification_Android.jpg" alt="Geçmiş Ödül" width="220" height="391"> | <img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/Notification_Ios.png" alt="Geçmiş Ödül" width="220" height="391">
 
 
-
+Notification IOS: 
+meplanner/ios/Runner/AppDelegate.swift

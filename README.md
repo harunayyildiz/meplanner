@@ -1,4 +1,4 @@
-# mePlanner :part_alternation_mark:
+# :part_alternation_mark: mePlanner 
 
 <br>
 :date: Görevlerinizi net ve kolay bir şekilde organize edin.
@@ -44,10 +44,7 @@ Notification(Android) | Notification(IOS)
 <img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/Notification_Android.jpg" alt="Geçmiş Ödül" width="220" height="391"> | <img src="https://github.com/harunayyildiz/meplanner/blob/master/assets/Notification_Ios.png" alt="Geçmiş Ödül" width="220" height="391">
 
 
-Notification IOS sessing:
-meplanner/ios/Runner/AppDelegate.swift
-
-Android Notification settings:
+# Android Notification settings:
 # 1- app/build.gradge
 ```
 
@@ -124,7 +121,8 @@ Android Notification settings:
             <!--Notification End 🔔-->   
 
 ```
-    
-  
+
+# IOS Notification sessing:
+meplanner/ios/Runner/AppDelegate.swift
     
     

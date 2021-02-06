@@ -42,3 +42,23 @@ Notification(Android) | Notification(IOS)
 
 Notification IOS sessing:
 meplanner/ios/Runner/AppDelegate.swift
+
+Android Notification settings:
+
+```
+
+    buildTypes {
+        release {
+            // TODO: Add your own signing config for the release build.
+            // Signing with the debug keys for now, so `flutter run --release` works.
+            signingConfig signingConfigs.debug
+            minifyEnabled true
+            shrinkResources true
+             // flutter_local_notification için Eklendi (Bildirimlerin Bozulmaması için...🔔)
+            proguardFiles getDefaultProguardFile(
+                    'proguard-android.txt'),
+                    'proguard-rules.pro'
+        }
+    }
+    
+ ```

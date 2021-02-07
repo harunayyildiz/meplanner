@@ -10,9 +10,9 @@ import 'pages/home_page.dart';
 // final docDirectory = await pathProvider.getApplicationDocumentsDirectory();
 // Hive.init(docDirectory.path);
 //şeklinde bir kullanımımız olucaktı.
-//Flutter_hive paketindeki initFlutter'da pathProviderden extend edilmiş.
-//ValueListenableBuilder widget'ındaki listenable(), flutter_hiveden gelmektedir
-//Bu paket sayesinde içindeki veri dinlenip değiştiriliyor./////
+//hive_flutter paketindeki initFlutter'da pathProviderden extend edilmiş.
+//ValueListenableBuilder widget'ındaki listenable(), hive_flutterdan gelmektedir
+//Bu paket sayesinde içindeki veri dinlenip değiştiriliyor.
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Hive.initFlutter();

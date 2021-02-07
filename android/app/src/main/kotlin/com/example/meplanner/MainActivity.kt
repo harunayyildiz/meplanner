@@ -1,4 +1,4 @@
-package com.example.meplanner
+package com.meplanner
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -25,8 +25,18 @@ apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
 apply from: "$flutterRoot/packages/flutter_tools/gradle/flutter.gradle"
 
+//properties İşlemleri Start 🌓⭐ 
+
+def keystoreProperties = new Properties()
+def keystorePropertiesFile = rootProject.file('key.properties')
+if (keystorePropertiesFile.exists()) {
+    keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
+}
+
+//properties İşlemleri Finish
+
 android {
-    compileSdkVersion 28
+    compileSdkVersion 29
 
     sourceSets {
         main.java.srcDirs += 'src/main/kotlin'
@@ -38,18 +48,30 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId "com.example.meplanner"
+        applicationId "com.meplanner"
         minSdkVersion 16
-        targetSdkVersion 28
+        targetSdkVersion 29
         versionCode flutterVersionCode.toInteger()
         versionName flutterVersionName
     }
+
+ // Uygulama Release modda imzalanırken ayarlar start🌓⭐ 
+    signingConfigs {
+       release {
+           keyAlias keystoreProperties.getProperty('keyAlias')
+           keyPassword keystoreProperties.getProperty('keyPassword')
+           storeFile keystoreProperties.getProperty('storeFile') ? file(keystoreProperties.getProperty('storeFile')) : null
+           storePassword keystoreProperties.getProperty('storePassword')
+       }
+   }
+
+    // Ayarlar finish 🌓⭐ 
 
     buildTypes {
         release {
             // TODO: Add your own signing config for the release build.
             // Signing with the debug keys for now, so `flutter run --release` works.
-            signingConfig signingConfigs.debug
+            signingConfig signingConfigs.release
             minifyEnabled true
             shrinkResources true
              // flutter_local_notification için Eklendi (Bildirimlerin Bozulmaması için...🔔)

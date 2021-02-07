@@ -4,9 +4,15 @@
     <item android:drawable="@android:color/white" />
 
     <!-- You can insert your own image assets here -->
-    <!-- <item>
-        <bitmap
-            android:gravity="center"
-            android:src="@mipmap/launch_image" />
-    </item> -->
+    <item
+        android:width="200dp"
+        android:height="200dp"
+        android:drawable="@drawable/ic_launcher"
+        android:gravity="center" />
+    <item
+        android:width="250dp"
+        android:height="150dp"
+        android:top="500dp"
+        android:drawable="@drawable/created_me"
+        android:gravity="center" />
 </layer-list>

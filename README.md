@@ -11,7 +11,7 @@
 
 # Play Store
 
-:point_right: Hemen Kullanmak için: [tıklayınız](xx)
+:point_right: Hemen Kullanmak için: [tıklayınız](https://play.google.com/store/apps/details?id=com.meplanner)
 <br>
 :key: Gizlilik Politikası için [tıklayınız](https://www.harunayyildiz.com/gizlilik-bildirimi/)
 
@@ -126,5 +126,8 @@ Notification(Android) | Notification(IOS)
 
 # IOS Notification sessing:
 meplanner/ios/Runner/AppDelegate.swift
-    
+
+# License 
+## MIT ~
+<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/4b8724b99a8519c22d968e1e441f3623f645adb89e7dde5fd467f679da96ae69/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f5a486a53587a526b55575457452f3230302e676966"><img src="https://camo.githubusercontent.com/4b8724b99a8519c22d968e1e441f3623f645adb89e7dde5fd467f679da96ae69/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f5a486a53587a526b55575457452f3230302e676966" alt="Yeay" data-canonical-src="https://media1.giphy.com/media/ZHjSXzRkUWTWE/200.gif" style="max-width:100%;"></a></p>
     
